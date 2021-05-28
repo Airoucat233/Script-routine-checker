@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZmKQ0WKCHlZD5zpcjc8P2XtEALv+j5+y/mnoktkK7B1w6D1+mGuPxCOq3aeEs7NW7RGqGgL70+9USLZUoLbwg==",
+  "success": true,
+  "projectFilePath": "D:\\airoucat\\Script routine checker\\Script routine checker\\Script routine checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hw\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\hw\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\hw\\.nuget\\packages\\showmethexaml\\2.0.0\\showmethexaml.2.0.0.nupkg.sha512",
+    "C:\\Users\\hw\\.nuget\\packages\\showmethexaml.msbuild\\2.0.0\\showmethexaml.msbuild.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

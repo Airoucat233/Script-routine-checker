@@ -1,0 +1,27 @@
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.csprojAssemblyReference.cache
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\App.g.cs
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker_MarkupCompile.cache
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker_MarkupCompile.lref
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.exe
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.deps.json
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.runtimeconfig.json
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.runtimeconfig.dev.json
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.dll
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\ref\Script routine checker.dll
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\Script routine checker.pdb
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\App.baml
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\MainWindow.baml
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.g.resources
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.AssemblyInfoInputs.cache
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.AssemblyInfo.cs
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.csproj.CoreCompileInputs.cache
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.csproj.CopyComplete
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.dll
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\ref\Script routine checker.dll
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.pdb
+D:\airoucat\Script routine checker\Script routine checker\obj\Debug\net5.0-windows\Script routine checker.genruntimeconfig.cache
+D:\airoucat\Script routine checker\Script routine checker\bin\Debug\net5.0-windows\ShowMeTheXAML.dll
